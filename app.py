@@ -558,9 +558,9 @@ with tab3:
     st.markdown("### 📧 Contact & Support")
     col1, col2 = st.columns(2)
     with col1:
-        st.info("👨‍💻 **Developer**: Sachin Ranjan")
+        st.info("👨‍💻 **Developer**: Shrivardhan Tyagi")
     with col2:
-        st.info("📧 **Email**: sranjan2219@gmail.com")
+        st.info("📧 **Email**: shrivardhantyagi@gmail.com")
     
     st.markdown("""
     ---
