@@ -560,7 +560,7 @@ with tab3:
     with col1:
         st.info("👨‍💻 **Developer**: Shrivardhan Tyagi")
     with col2:
-        st.info("📧 **Email**: shrivardhantyagi@gmail.com")
+        st.info("📧 **Email**: vardhantyagi.124@gmail.com")
     
     st.markdown("""
     ---
