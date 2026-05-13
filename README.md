@@ -247,7 +247,7 @@ This project is provided as-is for educational and commercial use.
 - 🎓 B.Tech Computer Science
 - 📊 Data Science Enthusiast
 
-📧 **Contact**: shrivardhan@gmail.com
+📧 **Contact**: vardhantyagi.124@gmail.com
 
 ---
 
